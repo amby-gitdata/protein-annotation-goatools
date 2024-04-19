@@ -1,6 +1,6 @@
 # protein-annotation-goatools
 ## Project description
-The goal of this project is to provide a list of proteins associated with a search query, categorized by gene ontology terms. 
+The goal of this project is to provide a list of proteins associated with a search query, categorized by gene ontology terms - using the library goatools.
 FASTA protein sequences of the organism (in this case _Stentor_: S_coeruleus_Nov2017_proteins.fasta) were annotated by eggnogmapper (http://eggnog-mapper.embl.de) so that every protein in the organism is annotated with GO terms, and other ortholog information.
 
 ## Folders
